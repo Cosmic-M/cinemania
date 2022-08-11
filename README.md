@@ -39,8 +39,8 @@ own interface for managing and resolve their tasks.
   Maven programs (to the bin folders).<br>
 - MySQL - must have installed (workbench will come in handy).<br>
 - While creating a connection to mySQL, configure port (3307 by default) and fetch password in db.properties.<br>
-- Tomcat up to 10 version - must have!
-- Launching can be done using the IDE. All requests by browser or Postman.
+- Tomcat up to 10 version - must have!<br>
+- Launching can be done using the IDE. All requests by browser or Postman.<br>
 - Here's basic endpoints to ease your life at the beginning:<br>
   FOR ADMIN:<br>
   POST: /cinema-halls<br>
